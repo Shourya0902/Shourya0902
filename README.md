@@ -2,7 +2,7 @@
 ### 🎓 MSc Data Science & Analytics @ University of Leeds | MBA (Finance)
 📍 *London, United Kingdom*
 
-**Aspiring Data Scientist / ML Engineer / Product Data Analyst**
+**Aspiring Data Scientist / ML Engineer / AI Engineer**
 
 ---
 
