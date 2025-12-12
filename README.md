@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shourya!
 ### 🎓 MSc Data Science & Analytics @ University of Leeds | MBA (Finance)
-📍 *Leeds, United Kingdom*
+📍 *London, United Kingdom*
 
 **Aspiring Data Scientist / ML Engineer / Product Data Analyst**
 
