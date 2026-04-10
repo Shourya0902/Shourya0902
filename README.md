@@ -64,10 +64,11 @@ I love building end-to-end solutions — from robust data pipelines to deploying
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Activity
 
-[![Shourya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shourya0902&show_icons=true&theme=radical)](https://github.com/Shourya0902)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shourya0902&layout=compact&theme=radical)](https://github.com/Shourya0902)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shourya0902&theme=radical&hide_border=true)](https://github.com/Shourya0902)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shourya0902&color=blueviolet&style=flat)
 
 ---
 
