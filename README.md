@@ -10,12 +10,16 @@
 
 ### 🚀 About Me
 
-I'm a data-driven problem solver with a background spanning **Mechanical Engineering**, **Finance (MBA)**, and **Data Science**. My experience at **GoMechanic** taught me how to translate raw data into product insights, and my Master's research focuses on the cutting edge of GenAI.
+I've delivered £270K+ in measurable revenue impact by turning messy product data into machine learning models and decisions that stick, not slide decks that get ignored. Over 3 years at GoMechanic, one of India's largest car-servicing platforms, I grew from analyst intern to owning the company's reporting infrastructure, building ETL pipelines, forecasting demand, and running experiments that shaped pricing and product decisions for millions of users. A colleague once described me as "the kind of person who flags a problem before it becomes your problem." I'd take that over any job title. 
 
-I love building end-to-end solutions — from robust data pipelines to deploying LLM-based applications on the cloud.
+In 2025 I completed my MSc in Data Science at the University of Leeds with Distinction, going deep on the modern ML stack. Since then I've built an LLM evaluation framework from scratch (RAG, ChromaDB, cross-encoder reranking, LLM-as-a-Judge) and a production ETL pipeline with CI/CD  both open-source on my GitHub, linked below. 
+
+What I bring: Python, SQL, R · Machine Learning & Statistical Modelling · NLP, LLMs & RAG · A/B Testing & Experimentation · ETL & Data Pipelines · Dashboarding (Looker, Power BI) and the product instinct to know which model is worth building. 
+
+📍 London · Full right to work in the UK Open to Data Scientist and ML-focused Analyst roles. Reach me at shouryamarwaha@gmail.com or message me here.
 
 **🔍 Currently working on:**
-- Deploying a **housing price prediction app** on **AWS** (EC2 + Docker + FastAPI + Streamlit)
+- Deploying a **Ship Sensors Anomaly Detection**  (Vessel API + ML + Docker + FastAPI + Streamlit)
 - Evaluating **RAG systems** for complex statistical reasoning
 - Implementing **Stochastic Weight Averaging (SWA)** for NLP generalization
 
